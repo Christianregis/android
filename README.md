@@ -8,7 +8,7 @@ Je suis un jeune développeur passionné par le mobile, les interfaces intuitive
 
 ## 👨‍💻 À propos de moi
 
-Je m'appelle **Christian Régis CHEUKAP TATOUN**, étudiant en Génie Informatique et Développement Mobile.  
+Je m'appelle **Christian Régis CHEUKAP TATOUN**, étudiant en Génie Informatique et Développement Mobile niveau 2.
 Je conçois des applications performantes et élégantes avec **Flutter**, en m'appuyant sur des APIs, des architectures propres et une logique orientée utilisateur.
 
 ---
